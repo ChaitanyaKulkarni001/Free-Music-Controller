@@ -30,7 +30,7 @@ git clone https://github.com/your-username/music-controller.git
 cd music-controller
 ```
 
-####2️⃣ Backend Setup (Django)
+2️⃣ Backend Setup (Django)
 ```
 pip install -r requirements.txt
 python manage.py migrate
@@ -38,7 +38,7 @@ python manage.py runserver
 ```
 The backend server should now be running at http://127.0.0.1:8000/.
 
-####3️⃣ Frontend Setup (React)
+3️⃣ Frontend Setup (React)
 ````
 cd frontend
 npm install
@@ -46,10 +46,10 @@ npm start
 ````
 The React app should now be running at http://localhost:3000/.
 
-###📂 GitHub Repository
+📂 GitHub Repository
 
 Explore the full implementation on GitHub: Music Controller Repository
 
-###🎉 Conclusion
+🎉 Conclusion
 
 The Music Controller app transforms house parties by enabling seamless, collaborative music enjoyment. Join us in redefining the way we experience music at gatherings! 🚀
